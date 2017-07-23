@@ -1,4 +1,5 @@
-name: Palmer Lab website
+title: Palmer Lab home
+name: Palmer Lab home
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
