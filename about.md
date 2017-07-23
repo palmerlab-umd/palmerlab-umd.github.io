@@ -1,6 +1,7 @@
 ---
 title: about
-permalink: /docs/my-page/
+permalink: /docs/about/
+layout: default
 ---
 
-Hello World!
+this is the about page

@@ -3,4 +3,4 @@ title: about
 permalink: /docs/about/
 ---
 
-Hello World!
+this is the about page markdown in the _docs folder

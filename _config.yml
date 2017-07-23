@@ -29,6 +29,13 @@ exclude:
 
 defaults:
 - scope:
+    path: _research
+    type: research
+  values:
+    layout: research
+    sectionid: research
+
+- scope:
     path: _docs
     type: docs
   values:
@@ -38,4 +45,10 @@ defaults:
 collections:
   docs:
     permalink: /:collection/:path/
+    output: true
+  research:
+    permalink: /:collection/:path/
+    output: true
+  posts:
+    permalink: /blog/:year/:month/:day/:title/
     output: true
