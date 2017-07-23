@@ -26,3 +26,16 @@ exclude:
   - .idea/
   - .gitignore
   - README.md
+
+defaults:
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
+
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true

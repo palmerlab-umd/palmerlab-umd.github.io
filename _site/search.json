@@ -4,24 +4,24 @@
     
     
     {
-      "title": "",
-      "url": ""
+      "title": "Welcome",
+      "url": "/docs/home/"
 
     },
   
     
     
     {
-      "title": "",
-      "url": ""
+      "title": "Themes",
+      "url": "/docs/themes/"
 
     },
   
     
     
     {
-      "title": "",
-      "url": ""
+      "title": "Customization",
+      "url": "/docs/customization/"
 
     },
   
@@ -30,24 +30,24 @@
     
     
     {
-      "title": "",
-      "url": ""
+      "title": "Markdown Cheatsheet",
+      "url": "/docs/cheatsheet/"
 
     },
   
     
     
     {
-      "title": "",
-      "url": ""
+      "title": "Font Awesome Icon List",
+      "url": "/docs/font-awesome/"
 
     },
   
     
     
     {
-      "title": "",
-      "url": ""
+      "title": "Bootstrap Features",
+      "url": "/docs/bootstrap/"
 
     },
   
