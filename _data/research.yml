@@ -1,11 +1,11 @@
 - title: Current Research
   research:
-  - researchtest
   - home
-  - customization
+  - coastal-plain
+  - carbon
+  - intermittent
 
-- title: Previous Research
+- title: Recent and Past Research
   research:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - prior_research
+  - nrrss
