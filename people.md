@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: people
 title: Lab Personnel
 permalink: /people/
 ---
