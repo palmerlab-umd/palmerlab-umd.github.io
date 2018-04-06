@@ -1,5 +1,7 @@
 We are rebuilding the Palmer Lab website as a Github Page using the website of the Wurm Lab at Queen Mary University London [https://wurmlab.github.io] as a template for code. Their website is based on on https://github.com/cboettig/labnotebook.
 
+look for us at palmerlab.umd.edu in the meantime!
+
 ### note ###
 All of the files for the "People" tab are actually in the "team" folder.
 
