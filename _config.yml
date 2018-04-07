@@ -2,8 +2,8 @@ markdown: kramdown
 
 title: Palmer Lab @ University of Maryland
 
-url: '//akottkam.github.io'
-production_url: 'https://akottkam.github.io'
+url: '//palmerlab-umd.github.io'
+production_url: 'https://palmerlab-umd.github.io'
 
 permalink: "/news/:year-:month-:day-:title/"
 
