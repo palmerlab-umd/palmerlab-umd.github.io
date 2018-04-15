@@ -11,4 +11,4 @@ categories:
 
 rOpenSci named Kelly Hondula as a 2018 recipient of a competitive fellowship designed to enable and support communities of researchers who embrace open and reproducible research practices.  Her fellowship will involve creation of tools and training materials to help manage diverse types of hydrologic, soil, and ecological data with workflows in R structures around an information model called ODM2.  Read more [here](https://ropensci.org/blog/2018/02/14/announcing-2018-ropensci-fellows/).
 
-![kelly-field]({{ site.url }}/img/KellyHondula_April2018.JPG)
+![kelly-field]({{ site.url }}/img/KellyHondula_April2018.JPG){:height="20%"}
