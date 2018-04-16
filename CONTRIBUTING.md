@@ -2,6 +2,19 @@ Making updates to the Palmer Lab Website
 
 Thank you for helping with the website! This is a guide for how to make routine updates for new publications, news items, and lab members. Make sure have a github account so you can be added to the palmerlab-umd github organization and have permissions to edit the website. You can edit the website online with the "edit" button, or by cloning the repository to your computer and working locally then pushing changes back to github (you will need to have git installed). 
 
+## Breaking things
+
+If you want to go back to a previous version of a file, you can use git to "revert" or "checkout" a previous version of that file, with the code identifying which commit you want to revert back to. To reset the file "filename" to commit "abcde", use the syntax: 
+
+```
+git reset abcde filename
+git push
+```
+
+[reference](https://fettblog.eu/snippets/git/reverting-a-single-file/)
+
+---
+
 ## Add Publications
 
 ---
