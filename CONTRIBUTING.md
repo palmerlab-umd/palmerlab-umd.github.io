@@ -4,6 +4,7 @@ Thank you for helping with the website! This is a guide for how to make routine 
 
 ## Breaking things
 
+**go to previous version of a file**
 If you want to go back to a previous version of a file, you can use git to "revert" or "checkout" a previous version of that file, with the code identifying which commit you want to revert back to. To reset the file "filename" to commit "abcde", use the syntax: 
 
 ```
@@ -12,6 +13,11 @@ git push
 ```
 
 [reference](https://fettblog.eu/snippets/git/reverting-a-single-file/)
+
+**validate YAML header**
+
+Like spell check for code! 
+[YAML validator](https://codebeautify.org/yaml-validator)
 
 ---
 
