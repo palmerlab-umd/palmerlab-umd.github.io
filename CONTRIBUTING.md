@@ -27,6 +27,23 @@ Like spell check for code!
 
 ## New News
 
+To add a news item, create a new markdown (`.md`) file in the folder `_posts/labnews/` following the file name convention: **YYYY-MM-DD-Short_name_for_post.md**. The file should contain a YAML header which describes some configuration parameters, and then the text of the post. The header will look something like below - make sure to include the **labnews** category tag so the page gets created in the right place. 
+
+```
+---
+author: anna
+comments: true
+date: 2018-04-04 12:00:00
+layout: post
+slug: Alec-Wetland-Tea
+title: "Alec's Research Outreach Video"
+categories:
+ - labnews
+---
+```
+
+A few places to find guidelines for GitHub's particular implementation of markdown formatting are [here](https://guides.github.com/features/mastering-markdown/) and [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). To see how other news items included a photo or video, you can see the plain text version of those files online by navigating to a file in the `labnews` folder, and clicking the "**Raw**" button.  
+
 ---
 
 ## People updates
