@@ -46,6 +46,12 @@ A few places to find guidelines for GitHub's particular implementation of markdo
 
 ---
 
+To add a **photo** to a news item, upload your file to the "newsphotos" folder within the "img" folder. Then insert this line in your markdown file, editing the "MYPHOTO" and "PHOTO_CAPTION" and size parameters to your file name.
+```
+<img src="{{ site.url }}/img/newsphotos/MYPHOTO.png" alt="PHOTO_CAPTION" width="150px" hspace="20px">
+```
+---
+
 ## People updates
 
 To edit information about lab alums, edit `team/index.html` ([link](https://github.com/palmerlab-umd/palmerlab-umd.github.io/blob/master/team/index.html)). There is a list starting around line 48 after the line `lab_alumni:`. Each line needs to begin with `- name: `. 
