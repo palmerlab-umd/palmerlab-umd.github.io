@@ -44,8 +44,6 @@ categories:
 
 A few places to find guidelines for GitHub's particular implementation of markdown formatting are [here](https://guides.github.com/features/mastering-markdown/) and [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). To see how other news items included a photo or video, you can see the plain text version of those files online by navigating to a file in the `labnews` folder, and clicking the "**Raw**" button.  
 
----
-
 To add a **photo** to a news item, upload your file to the "newsphotos" folder within the "img" folder. Then insert this line in your markdown file, editing the "MYPHOTO" and "PHOTO_CAPTION" and size parameters to your file name.
 ```
 <img src="{{ site.url }}/img/newsphotos/MYPHOTO.png" alt="PHOTO_CAPTION" width="150px" hspace="20px">
