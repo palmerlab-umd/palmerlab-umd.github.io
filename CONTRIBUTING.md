@@ -23,6 +23,29 @@ Like spell check for code!
 
 ## Add Publications
 
+Add new publications by updating the YAML header in the `publications/index.html` file. Add a new sub-heading under `papers:` using the format:
+
+```
+- title: "Evaluation of infiltration-based stormwater management to restore hydrological processes in urban headwater streams"
+  journal: "Hydrological Processes (2017) 31:3306-3319"
+  authors:
+  - <b>R Fanelli</b>
+  - K Prestegaard
+  - <b>M Palmer</b>
+  citationUrl: https://scholar.google.com/scholar?cites=11605653755851736228&as_sdt=20000005&sciodt=0,21&hl=en
+  citationCount: '3'
+  doi: 10.1002/hyp.11266
+  pdf: /publications/Palmerpublications/Fanelli2017.pdf
+  showAltmetric: true
+  tag: 'primary research'
+ ``` 
+
+Names enclosed by `<b>Name</b>` tags will be bolded, indicating that they are "Authors from the Palmer lab". 
+
+The `pdf:` link is the location of the pdf file of the paper relative to the base URL of the site. Upload the pdf file to that location to make it available from the `[PDF]` link following the article name. The article name links to the DOI. 
+
+Use the [YAML validator](https://codebeautify.org/yaml-validator) if it seems like things aren't working. 
+
 ---
 
 ## New News
