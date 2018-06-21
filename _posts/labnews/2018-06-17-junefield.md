@@ -13,7 +13,7 @@ Summer fieldwork is well under way for the Palmer Lab! We are busy sampling gase
 
 <img src="{{ site.url }}/img/newsphotos/june2018_fieldday.jpg" alt="june-2018-field-day" width="500px" hspace="20px" align="center">
 
-Our awesome lab interns are working on a variety of projects this summer (from left to right):
+Our interns are working on a variety of projects this summer (from left to right):
 
 * Eshana is identifying plant species compositions in a few wetlands and helping set up soil gas sampling chambers.
 * Bianca is sampling soils and quantifying fractions of carbon stabilization. 
