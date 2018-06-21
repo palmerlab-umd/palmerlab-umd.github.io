@@ -11,7 +11,7 @@ categories:
 
 Summer fieldwork is well under way for the Palmer Lab! We are busy sampling gases, soils, wetland water, and setting up soil chambers, with the help of our fearless crew of summer undergraduate interns!  
 
-<img src="{{ site.url }}/img/newsphotos/june2018_fieldday.jpg" alt="june-2018-field-day" width="500px" hspace="20px" align="center">
+<img src="{{ site.url }}/img/newsphotos/june2018_fieldday.JPG" alt="june-2018-field-day" width="500px" hspace="20px" align="center">
 
 Our interns are working on a variety of projects this summer (from left to right):
 
