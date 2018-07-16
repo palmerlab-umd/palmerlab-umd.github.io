@@ -80,3 +80,8 @@ To edit information about lab alums, edit `team/index.html` ([link](https://gith
 Enhancement: To automate link formatting, edit the layout instructions at the bottom of the page under ` {% for student in page.lab_alumni %}`
 
 ---
+
+## Miscellaneous tips
+
+1. To include a special character in markdown text, you can use the name of the character between `&` and `;` such as `&oacute;` for an accented letter o such as in [this](https://raw.githubusercontent.com/palmerlab-umd/palmerlab-umd.github.io/master/_posts/labnews/2018-07-16-ferreview.md) page. Look up character names on wikipedia [here](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+
