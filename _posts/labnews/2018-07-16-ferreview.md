@@ -9,7 +9,7 @@ categories:
  - labnews
 ---
 
-> By reading about the most up-to-date solutions of restoration problems, those concerned with the sustainability of the environment may find it easier to restore degraded ecosystems.
+> "By reading about the most up-to-date solutions of restoration problems, those concerned with the sustainability of the environment may find it easier to restore degraded ecosystems." -- Orsolya Valk&oacute;
 
 
 The latest volume of **Conservation Biology** features a review of the [2nd edition of *Foundations of Restoration Ecology*](https://www.sesync.org/foundations-of-restoration-ecology-second-edition), edited by Palmer, Zedler, and Falk. 
