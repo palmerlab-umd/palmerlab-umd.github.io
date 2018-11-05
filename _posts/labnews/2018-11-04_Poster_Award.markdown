@@ -9,3 +9,4 @@ categories:
  - labnews
 ---
 Congratulations to graduate student, Anna Kottkamp, for receiving the Best Poster Award at the 2018 University of Maryland MEES Colloquium.  Read more [here](https://www.mees.umd.edu/news-and-events/)
+ <img src="{{ site.url }}/img/anna_field.jpg" alt="anna-field" width="150px" hspace="20px">
