@@ -4,7 +4,7 @@ comments: true
 date: 2018-11-04 12:01:00
 layout: post
 slug: Poster_Award
-title: "ASLO Announces the 2018 Ruth Patrick Award goes to Margaret Palmer"
+title: "MEES Colloquium Poster Award"
 categories:
  - labnews
 ---
