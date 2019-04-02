@@ -1,12 +1,32 @@
 ---
-author: Anna
+author: Kelly
 comments: true
-date: 2018-11-04 12:01:00
+date: 2018-12-09 12:01:00
 layout: post
-slug: Poster_Award
-title: "MEES Colloquium Poster Award"
+slug: agu talks
+title: "Palmer Lab at AGU"
 categories:
  - labnews
 ---
-Congratulations to graduate student, Anna Kottkamp, for receiving the Best Poster Award at the 2018 University of Maryland MEES Colloquium.  Read more [here](https://www.mees.umd.edu/news-and-events/)
- <img src="{{ site.url }}/img/newsphotos/anna-field.jpg" alt="anna-field" width="150px" hspace="20px">
+
+
+* [Seeing the forest for the trees: Using long-term observations from a forest biodiversity experiment to examine the effect of forest restoration and stand diversity on catchment hydrology.](https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/420605)
+	Nate Jones, Monday 13:40 - 18:00, Poster H13J-1868
+* [Seasonal hydrologic connectivity and site-level differences influence wetland DOM composition and photoreactivity](https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/460898).  
+	Alec Armstrong, Tuesday 8:00AM to 12:20PM, Poster B21I-2449
+* [Urban legacies: Aquatic stressors and low aquatic biodiversity persist despite implementation of stormwater control measures](https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/392907)
+	Rosemary Fanelli (now at USGS), Tuesday, 08:00 - 12:20, Poster H21O-1901
+* [Environmental problems are social problems: Lessons learned from geoscience-social science collaborations](https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/417248)
+	Margaret Palmer (invited), Tuesday 13:44 - 13:47, eLightning Theater II
+* [Hydrologic drivers of soil organic carbon stabilization in seasonally-saturated wetlands](https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/433319).
+	Anna Kottkamp, Tuesday 13:40 to 18:00, Poster B23G-2594
+* [Methane-cycling microbial communities vary along a hydrologic gradient in depressional freshwater wetland soils](https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/422573).
+	Christine Maietta, Wednesday 13:40 to 18:00, Poster B33O-2885
+* [Greenhouse gas fluxes in restored and natural freshwater depressional wetlands](https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/433478).
+	Graham Stewart, Thursday 8:00 to 12:20, Poster B41E-2758
+* [Farming carbon: the link between saltwater intrusion and carbon storage in coastal agricultural fields](https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/397436)
+	Elizabeth de la Reguera, Thursday 08:45 - 09:00, Session B41C in Room 147B
+* [Scaling up field measurements of methane fluxes from forested wetlands using inundation time series](https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/458826).
+	Kelly Hondula, Thursday 8:00 to 12:20, Poster B41G-2791
+* [Geoscience Impact in a Complex World: Successful Collaboration with Social Scientists](https://agu.confex.com/agu/fm18/meetingapp.cgi/Session/52707)
+	Margaret Palmer (convener), Session U52A in Room 202A, Friday 10:20 - 12:20
