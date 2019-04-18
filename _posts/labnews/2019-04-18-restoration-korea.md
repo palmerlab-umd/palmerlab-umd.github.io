@@ -2,7 +2,7 @@
 date: 2019-04-18 12:01:00
 layout: post
 slug: Restoration in North Korea
-title: ""
+title: "Interview about Restoration in North Korea"
 categories:
  - labnews
 ---
