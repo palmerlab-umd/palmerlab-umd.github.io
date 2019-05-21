@@ -2,12 +2,12 @@
 date: 2019-05-21 12:01:00
 layout: post
 slug: 
-title: "MS or PhD position available"
+title: "Linking Hydrology and Biogeochemistry"
 categories:
  - labnews
 ---
 
-## Linking Hydrology and Biogeochemistry – Funded M.S. or PhD student position available at the University of Maryland
+### Funded M.S. or PhD student position available at the University of Maryland
 
 *Position Summary:*
 
